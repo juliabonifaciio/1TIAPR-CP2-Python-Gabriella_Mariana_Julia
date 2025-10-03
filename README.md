@@ -5,25 +5,23 @@
 - Mariana Pergentino Fonseca – RM568252  
 - Julia Marcela de Faria Bonifacio – RM566673  
 
----
-
 ## ⚙️ Instalação
 
 1. Clone este repositório ou baixe os arquivos para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-velha.git
+   git clone https://github.com/juliabonifaciio/1TIAPR-CP2-Python-Gabriella_Mariana_Julia.git
     ```
 
 2. Acesse a pasta do projeto:
     ```bash
-    cd jogo-da-velha
+    cd 1TIAPR-CP2-Python-Gabriella_Mariana_Julia
     ```
 
 ## ▶️ Execução
 
 Para rodar o programa, basta executar o seguinte comando no terminal:
     ```bash
-    python jogo_da_velha.py
+    python main.py
     ```
 
 ## 🎮 Como Jogar
