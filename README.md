@@ -73,4 +73,4 @@ O jogo termina quando:
     | O |  
     ---------
     |   |  
-    ```# 1TIAPR-CP2-Python-Gabriella_Mariana_Julia
+    ```
