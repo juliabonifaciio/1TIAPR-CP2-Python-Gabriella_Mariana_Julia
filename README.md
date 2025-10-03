@@ -40,7 +40,6 @@ O jogo termina quando:
 - Se todas as casas forem preenchidas sem vencedor, o jogo declara empate.
 
 ## 🖥️ Exemplo de Saída no Terminal
-    ```bash
     === JOGO DA VELHA ===
 
     Jogador 1 = X
@@ -71,4 +70,3 @@ O jogo termina quando:
     | O |  
     ---------
     |   |  
-    ```
